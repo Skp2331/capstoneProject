@@ -1,1 +1,1 @@
-# capstoneProject
+# Crop yield prediction using AI
